@@ -1,0 +1,3 @@
+This is a skeleton that can be cloned in order to get an working "default" Vaadin app.
+
+This skeleton is meant to be used with Scala + SBT.
