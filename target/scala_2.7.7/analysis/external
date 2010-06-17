@@ -1,0 +1,4 @@
+#External Dependencies
+#Wed Jun 16 16:05:00 EEST 2010
+/home/marpat/sbt_test_app/lib/vaadin-6.3.4.jar=src/main/scala/TestApplication.scala
+/home/marpat/sbt_test_app/project/boot/scala-2.7.7/lib/scala-library.jar=src/main/scala/TestApplication.scala

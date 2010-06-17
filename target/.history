@@ -1,0 +1,15 @@
+reload
+update
+compile
+jetty-run
+~ prepare-webapp 
+reload
+update
+jetty-stop 
+jetty-run 
+reload
+update
+jetty-stop
+jetty-run
+~ prepare-webapp 
+exit
